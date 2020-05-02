@@ -1,2 +1,2 @@
-# twitter-sentimeter
-Twitter sentiment analysis using tweepy and textblob
+# sentimeter
+Twitter and news sentiment analysis using tweepy, news api, and textblob
